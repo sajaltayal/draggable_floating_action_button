@@ -25,7 +25,7 @@ class _DraggableFloatingActionButtonState
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 88, //standard height of fab plus 16+16 margin above and below
+      height: 68, //standard height of fab plus 16+16 margin above and below
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: <Widget>[
