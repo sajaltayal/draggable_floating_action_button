@@ -1,4 +1,4 @@
-library draggable_floating_button;
+library draggable_floating_action_button;
 
 import 'package:flutter/material.dart';
 
